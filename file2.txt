@@ -1,7 +1,6 @@
 aws ec2 runs on linux
-am adding few more line for to see how it goes
-hello hi how are you now.?
 uma practices on amazon linux
 python scripts run on linux servers
 bash scripting is a linux skill
 cloud computing needs linux knowledge
+am adding few more in the end of ifle
