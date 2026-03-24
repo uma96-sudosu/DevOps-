@@ -2,5 +2,5 @@ linux is used in servers and cloud
 Windows is a desktop operating system
 uma loves learning linux commands
 DevOps engineers use linux daily
-hello uma append
+heloo hello
 Mac is built on unix like linux
