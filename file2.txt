@@ -1,6 +1,0 @@
-aws ec2 runs on linux
-uma practices on amazon linux
-python scripts run on linux servers
-bash scripting is a linux skill
-cloud computing needs linux knowledge
-am adding few more in the end of ifle
