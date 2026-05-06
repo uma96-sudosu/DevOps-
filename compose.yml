@@ -1,0 +1,12 @@
+services:
+  uma:
+    container_name: ckontm2
+    image: jenkins/jenkins:lts
+    ports:
+      - "8081:8080"
+
+  uma2:
+    container_name: cont3
+    image: httpd
+    ports: 
+       - "8082:80"
